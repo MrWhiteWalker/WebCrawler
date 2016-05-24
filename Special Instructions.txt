@@ -1,0 +1,4 @@
+Please execute the below mentiones steps before running the probgram.
+1. Run  /MySQLDB/WebCrawler/db.sql 
+2. Edit /WebCrawler/src/main/resources/db.properties with db credentials 
+
